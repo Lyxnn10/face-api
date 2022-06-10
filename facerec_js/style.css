@@ -1,0 +1,19 @@
+body {
+    background-color: #000;
+  }
+  
+  #canvas{
+    position: relative;
+    top: 100px;
+    left: 350px;
+    z-index:1;
+  }
+  
+  #video{
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    z-index:0;
+    border: 3px #fff solid;
+      border-radius: 10px;
+  }
