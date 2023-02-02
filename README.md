@@ -1,1 +1,1 @@
-Detects your face and its emotions in percentage.
+Detects your face and its emotions in percentage
